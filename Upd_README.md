@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20%7B%D0%98%D0%BC%D1%8F%7D&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20%D0%98%D0%BB%D1%8C%D1%8F&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
 
 ### 👋 Добро пожаловать в мой профиль!
 
-Заместитель руководителя отдела · Россия, г. Москва
+**Заместитель руководителя ОСК** · **Россия, Москва**
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%26+Go;Open+Source+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=%D0%97%D0%B0%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8C+%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F+%D0%9E%D0%A1%D0%9A;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F+%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B0;%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F+%D0%B8+%D0%B2%D0%B0%D0%B9%D0%B1-%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,39 +16,37 @@
 
 ## 👨‍💻 Обо мне
 
-Привет! Меня зовут Илья, и я занимаюсь сертификацией в СДС ИНТЕРГАЗСЕРТ.
+Привет! Меня зовут **Илья**. Я **заместитель руководителя ОСК** и занимаюсь **автоматизацией работы договорного отдела**.
 
-- 🔭 Сейчас работаю над автоматизацией работы договорного отдела
-- 🌱 Изучаю вайб-кодинг и психологию
-- 💬 Спросите меня о чем-нибудь
-- 🤝 Открыт к интересным проектам и сотрудничеству
-- ⚡ Факт обо мне: люблю фильтр-кофе
+- ⚙️ Автоматизирую процессы договорного отдела
+- 🧠 Изучаю **психологию** и **вайб-кодинг**
+- 📍 Россия, Москва
+- 💬 Спросите меня об автоматизации договорного отдела, психологии и вайб-кодинге
+- 🤝 Открыт к обмену опытом и интересным проектам
+- ⚡ Совмещаю управленческие задачи, автоматизацию и изучение психологии
+
 ---
 
-## 🛠️ Технологии
+## 🧩 Направления и компетенции
 
 <div align="center">
 
-### Языки
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Фреймворки и библиотеки
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Базы данных и инфраструктура
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge&logo=zap&logoColor=white)
+![Contract Management](https://img.shields.io/badge/Contract_Management-00C9A7?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Team Leadership](https://img.shields.io/badge/Team_Leadership-F2994A?style=for-the-badge&logo=target&logoColor=white)
+![Psychology](https://img.shields.io/badge/Psychology-9B59B6?style=for-the-badge)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF6B6B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Tools-2D9CDB?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
+
+| Направление | Что делаю |
+| :--- | :--- |
+| ⚙️ **Автоматизация** | Упрощаю и автоматизирую процессы договорного отдела |
+| 📄 **Договорная работа** | Совершенствую документооборот и внутренние процессы |
+| 👥 **Управление** | Помогаю команде работать системно и эффективно |
+| 🧠 **Психология** | Изучаю коммуникацию, мотивацию и взаимодействие людей |
+| 🤖 **Вайб-кодинг** | Осваиваю AI-инструменты и современный подход к разработке |
 
 ---
 
@@ -71,13 +69,14 @@
 
 ---
 
-## 🚀 Избранные проекты
+## 🚀 Проекты и кейсы
 
-| Проект | Описание | Стек |
+> Здесь появятся мои проекты и практические кейсы по автоматизации договорного отдела.
+
+| Проект | Описание | Направление |
 | :--- | :--- | :--- |
-| [**{Название проекта}**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | {Краткое описание проекта: какую задачу решает и чем полезен} | `Python` · `FastAPI` · `PostgreSQL` |
-| [**{Название проекта}**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | {Краткое описание проекта} | `TypeScript` · `React` · `Node.js` |
-| [**{Название проекта}**](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME) | {Краткое описание проекта} | `Go` · `Docker` · `Redis` |
+| **{Название проекта}** | {Краткое описание проекта} | Автоматизация |
+| **{Название проекта}** | {Краткое описание проекта} | AI / Vibe Coding |
 
 ---
 
@@ -85,10 +84,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Website](https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.basyrov@kc-perspektiva.ru)
+
+**i.basyrov@kc-perspektiva.ru**
 
 </div>
 
@@ -96,7 +94,9 @@
 
 <div align="center">
 
-### 💡 «{Любимая цитата или девиз}»
+### 🤝 Давайте знакомиться
+
+Открыт к общению, обмену опытом и интересным проектам.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C63FF)
 
